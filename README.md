@@ -1,6 +1,6 @@
 # SQL-practicing-samples
 ## Collection of my sample SQL files
-This is a collection of sample SQL solutions in a Bootcamp by WBS coding school.
+This is a collection of sample SQL solutions in a Bootcamp at WBS coding school.
 
 ### Libraries used
 querying, filtering, aggregating, and joining relational database tables
