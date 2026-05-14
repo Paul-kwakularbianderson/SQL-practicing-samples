@@ -7,7 +7,7 @@ SQL CHALLENGES 4
 *******************************************************************************
 *******************************************************************************
 
-In the exercises below you will need to use the following clauses/operators:
+In the exercises below, you will need to use the following clauses/operators:
 	- SELECT FROM
     - AS
 	- DISTINCT
@@ -18,11 +18,11 @@ In the exercises below you will need to use the following clauses/operators:
     - MIN(), MAX()
     - COUNT(), AVG(), SUM()
     
-In SQL we can have many databases, they will show up in the schemas list
-We must first define which database we will be working with.
+In SQL, we can have many databases; they will show up in the schemas list
+We must first determine which database we will work with.
 */
 
--- 1. From hoy many different states are our authors?
+-- 1. From how many different states are our authors?
 SELECT
 	COUNT(DISTINCT state) AS total_states
 FROM
